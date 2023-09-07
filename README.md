@@ -1,3 +1,1 @@
-"To Improve is to change"
-"There is nothing permanent, except change"
-"nsdnsndnsdnsndnsdnsn"
+"Creating my first website and learning to use GitHub"
